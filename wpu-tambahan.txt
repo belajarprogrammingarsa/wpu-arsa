@@ -3,7 +3,11 @@ Tambahan
 /*makan kare
 makan sushi
 makan ramen
-makan taiyaki*/
+makan taiyaki
+makan takoyaki
+makan gyoza*/
 - liburan
 - olahraga
 - beli laptop
+- beli ps
+- belajar editing
