@@ -4,7 +4,8 @@ Tambahan
 makan sushi
 makan ramen
 makan taiyaki
-makan takoyaki*/
+makan takoyaki
+makan gyoza*/
 - liburan
 - olahraga
 - beli laptop
