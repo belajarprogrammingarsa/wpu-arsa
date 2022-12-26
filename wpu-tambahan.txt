@@ -4,10 +4,9 @@ Tambahan
 makan sushi
 makan ramen
 makan taiyaki
-makan takoyaki
+makan omurice
 makan gyoza*/
 - liburan
-- olahraga
 - beli laptop
 - beli ps
 - belajar editing
