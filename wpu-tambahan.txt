@@ -2,7 +2,8 @@ Tambahan
 - makan makanan jepang
 /*makan kare
 makan sushi
-makan ramen*/
+makan ramen
+makan taiyaki*/
 - liburan
 - olahraga
 - beli laptop
