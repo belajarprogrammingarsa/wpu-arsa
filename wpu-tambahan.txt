@@ -8,4 +8,5 @@ makan omurice
 makan gyoza*/
 - liburan
 - beli laptop
-- project
+- beli ps
+- belajar editing
